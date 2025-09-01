@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio w formie strony internetowej
+Portfolio w formie strony internetowej (jeszcze nie dokończone)
